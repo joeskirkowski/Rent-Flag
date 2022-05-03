@@ -1,0 +1,129 @@
+.App {
+  text-align: center;
+  min-height: 100vh;
+  max-width:100vw;
+  width: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.main-container {
+  background-image: url('./RFBG.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 100px;
+}
+.Form {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.Home {
+  opacity: 0.9;
+  font-size: 18px;
+  color: black;
+}
+
+.Buttons {
+  padding: 2rem;
+  margin: 15px;
+  color: #FF0000;
+}
+
+h1 {
+  color: red;
+  padding-top: 10px;
+  font-family: 'Varela Round', sans-serif;
+}
+
+.FAQ {
+  width: '60rem';
+  background-color: black;
+    background: rgba(0, 0, 0, 0.5);
+    opacity: 0.9;
+    font-size: 18px;
+    color: black;
+}
+
+.Search{
+  padding: 50px;
+}
+.AboutPage {
+background-color: black;
+  background: rgba(0, 0, 0, 0.5);
+}
+p {
+  opacity: 1 !important;
+  color: white;
+  font-size: 20px;
+  text-align: center;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-family: 'Varela Round', sans-serif;
+}
+
+h3 {
+  color:red !important;
+  font-family: 'Varela Round', sans-serif;
+}
+
+.nav-link{
+  font-family: 'Roboto', sans-serif;
+  color: #2699FB !important;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+table td, table th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+table th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+  color: white;
+}
+
+table {
+  border: 1px white solid;
+}
+
+a:link {
+  color: red;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+.ArchiveTable {
+  color: white;
+  padding: 40px;
+}
+
+.DatePicker {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.Database {
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  height: 100%;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.ContactCard{
+background: #433F3E  !important;
+}
