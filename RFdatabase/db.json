@@ -1,0 +1,39 @@
+{
+  "archive": [
+    {
+      "username": "Lewis",
+      "address": "32 Walker Road, SE5 9TW",
+      "issue": "After we had signed the contracts, paid the deposit and moved in the landlord tried to ask for an extra £300 from each of the tenants. He threatened us with court if we didn’t pay and those that did never saw it again.",
+      "date": "Nov-22",
+      "score": 5,
+    }
+    {
+      "username": "Lilli",
+      "address": "53A Pringle Street, BS6 2RW",
+      "issue": "The window frames are rotting in the flat which causes serious damp and draft issues in the winter, the landlord claims to not have the money to fix them but owns over ten properties in the area. There is also a serious penetrating damp problem in two of the bedrooms that they have yet to look at despite being repeatedly reminded of it since October. They also left us without a working shower for six months.",
+      "date": "Feb-21",
+      "score": 2,
+    }
+    {
+      "username": "Coco",
+      "address": "186 Frazzle Road, E14 3HJ",
+      "issue": "Landlord tried to ban us from having visitors to the house.",
+      "date": "Jan-22",
+      "score": 5,
+    }
+    {
+      "username": "Emma",
+      "address": "33 Quaver Road M12 5GV",
+      "issue": "When we moved in there was an angry wasps nest in one of the wall cavity, this was in winter but it was still warm enough for them inside. The landlord refused to do anything about it for 4 months and demanded that we continue to pay full rent or go to court. When they did come to fix it, they put sticky tape over the cracks, the problem did not go away.",
+      "date": "Jan-22",
+      "score": 4,
+    }
+    {
+      "username": "Ali",
+      "address": "1 Watsit Street BN3 6SA",
+      "issue": "We left this flat three years ago. Today we got an email from the landlord asking for £200 for damages.",
+      "date": "Mar-21",
+      "score": 1,
+    }
+  ]
+}
